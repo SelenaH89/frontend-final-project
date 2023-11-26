@@ -1,7 +1,8 @@
 ## This is my final project for UpLeveled Bootcamp 👩‍🎓
 
 ### 🗣️ React Native Inventory Manager
-Effortless inventory management is at your fingertips with the system's Check Inventory Views & Updates feature, allowing easy viewing and modification of stock levels. 
+Effortless inventory management is at your fingertips with the system's 
+Check Inventory Views & Updates feature, allowing easy viewing and modification of stock levels. 
 Moreover, it secures your data with Access Control & Token Authentication, operates on Android with an SQL backend, and streamlines item identification and tracking through Barcode Scanning
 
 ### 🔧 Tools Used
