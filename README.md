@@ -11,8 +11,10 @@ Moreover, it secures your data with Access Control & Token Authentication, opera
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ### 🔎 Preview
-<img src="https://github.com/SelenaH89/frontend-final-project/assets/62565517/93ed76cf-2f90-4085-848b-04e241766cbe" alt="registerApp" width="200"/>
-<img src="https://github.com/SelenaH89/frontend-final-project/assets/62565517/0522f22e-8573-4383-8909-25b8e0de6dae" alt="loginApp" width="200"/>
+
+<img src="https://github.com/SelenaH89/frontend-final-project/assets/62565517/f63fc74c-e535-4bf4-a0dc-73f792f45102" alt="PopravkaRegistration" width="200"/>
+<img src="https://github.com/SelenaH89/frontend-final-project/assets/62565517/8b9a5410-2ced-4322-bc9a-6484ad4817d9" alt="PopravkaLogin" width="200"/>
 <img src="https://github.com/SelenaH89/frontend-final-project/assets/62565517/2c9a9bac-f549-4d28-9883-0231deaa0f1a" alt="DashboardApp" width="200"/>
+
 
 
